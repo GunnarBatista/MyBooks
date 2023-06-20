@@ -1,0 +1,7 @@
+.buttons{
+    justify-content: center;
+    display: flex;
+}
+.page-buttons{
+    margin: 0 10px 0 10px;
+}
